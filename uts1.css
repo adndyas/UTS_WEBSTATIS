@@ -313,7 +313,7 @@ h1 {
   color: #666;
 }
 .reservation-container {
-  background-image: url(c/pattern.jpg);
+  background-image: url(pattern.jpg);
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
